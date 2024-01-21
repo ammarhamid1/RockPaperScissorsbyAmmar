@@ -1,7 +1,7 @@
 # The Rock Paper Scissors Game /SoftUni Fundamentals 2024/
 Simple project by Ammar Hamid
 
-[<img alt="Play Button" src="https://user-images.githubusercontent.com/85368212/167706726-d027f056-fc2b-47b7-bfad-8ff8a3aa7688.png" />](https://replit.com/@ahamid96/RockPapersScissorsGame#main.py)
+[<img alt="Play Button" src="https://github.com/ammarhamid1/RockPaperScissorsbyAmmar/assets/149333132/fc1343a3-0c5d-4a1f-b115-cf7dfd9597f6" />](https://replit.com/@ahamid96/RockPapersScissorsGame#main.py)
 
 #
 
